@@ -1,7 +1,5 @@
 ﻿# Planetary Visualizer
 
----
-
 Planetary Visualizer is a basic audio visualizer that uses the [CSCore](https://github.com/filoe/cscore)
 library to listen to audio devices on Windows, and Unity as the runtime and rendering engine.
 The reason CSCore is used is that there is an issues relating to NAudio where it does not work with Unity.
